@@ -1,0 +1,12 @@
+{
+  "rom_url": "https://bigota.d.miui.com/20.11.25/miui_PYXIS_20.11.25_4e36e3c5e3_10.0.zip",
+  "rom_name": "miui_PYXIS_20.11.25_4e36e3c5e3_10.0.zip",
+  "pack_sgsi": "OP7T_OOS_13.W.07_XiaoxinSGSIs_Pinkdoge.7z",
+  "make_miui": true,
+  "make_flyme": false,
+  "make_coloros": false,
+  "make_h2os": false,
+  "make_smartisanos": false,
+  "make_zui": false,
+  "make_super": false
+}
